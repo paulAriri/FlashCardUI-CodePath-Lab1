@@ -14,7 +14,7 @@
 `TODO://` Push project to Github
 
 ### App Walk-though
-![FlashCardUI](FlashCardUI!.gif)
+![FlashCardUI](FlashCardUI.gif)
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
