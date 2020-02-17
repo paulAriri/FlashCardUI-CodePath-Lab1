@@ -7,11 +7,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Create a new app project
-`TODO://` Add different UI views on a screen
-`TODO://` Customizing UI
-`TODO://` Understand how to debug crashes and log useful messages
-`TODO://` Push project to Github
+`TODO://` Create a new app project, Add different UI views on a screen, Customizing UI, Understand how to debug crashes and log useful messages, Push project to Github
 
 ### App Walk-though
 ![FlashCardUI](FlashCardUI.gif)
